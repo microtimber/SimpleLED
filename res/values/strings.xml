@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disclaimer">Copyright (C) 2010 EverySoft\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n\nA copy of the full license agreement is available at http://www.gnu.org/licenses/.\n\nPROLONGED USE OF THE CAMERA\'S LED(S) HAS NOT BEEN TESTED, AND MAY DAMAGE YOUR PHONE.  Tap the application\'s icon to enable/disable the LED(s).</string>
+    <string name="accept">I Accept</string>
+    <string name="app_name">SimpleLED</string>
+</resources>
